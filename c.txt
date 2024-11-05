@@ -1,5 +1,7 @@
 apple
 banana
 cat
+dog
+cab
 
 
